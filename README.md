@@ -7,4 +7,4 @@ Energy loss due to inefficiencies and theft is a major problem in developing eco
 
 With AI, we are witnessing the rise of self-regulating energy systems that enhance both access and affordability of clean energy, paving the way for sustainable industrialization.
 
-https://www.kaggle.com/datasets/ziya07/smart-logistics-supply-chain-dataset
+https://www.kaggle.com/datasets/ziya07/smart-grid-monitoring-dataset
